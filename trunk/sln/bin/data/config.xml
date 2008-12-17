@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<item name="option">
+	<item name="mode" type="string" value="contest"></item>
+</item>
+<item name="global">
+	<item name="bpp"   type="integer" value="32"></item>
+	<item name="team_num" type="integer" value="6"></item>
+	<item name="normal_delay" type="integer" value="400"></item>
+	<item name="tiny_delay" type="integer" value="1"></item>
+	<item name="show_delay" type="integer" value="100"></item>
+	<item name="frame_per_second" type="integer" value="40"></item>
+	<item name="down_held_speed" type="integer" value="7"></item>
+</item>
+<item name="normal">
+	<item name="idle_mode" type="integer" value="1"></item>
+    <item name="enable_music" type="integer" value="0"></item>
+	<item name="full_screen" type="integer" value="0"></item>
+	<item name="screen_width" type="integer" value="640"></item>
+	<item name="screen_height" type="integer" value="480"></item>
+	<item name="single_mode" type="integer" value="1"></item>
+	<item name="speed_up_mode" type="integer" value="0"></item>
+	<item name="enable_log" type="integer" value="0"></item>
+	<item name="enable_score_log" type="integer" value="1"></item>
+	<item name="input_type" type="string" value="keyboard"></item>
+	<item name="use_map_file" type="integer" value="0"></item>
+	<item name="new_level_pause" type="integer" value="0"></item>
+</item>
+<item name="contest">
+	<item name="idle_mode" type="integer" value="1"></item>
+    <item name="enable_music" type="integer" value="0"></item>
+	<item name="full_screen" type="integer" value="0"></item>
+	<item name="screen_width" type="integer" value="640"></item>
+	<item name="screen_height" type="integer" value="480"></item>
+	<item name="single_mode" type="integer" value="1"></item>
+	<item name="speed_up_mode" type="integer" value="0"></item>
+	<item name="enable_log" type="integer" value="1"></item>
+	<item name="enable_score_log" type="integer" value="1"></item>
+	<item name="input_type" type="string" value="dll"></item>
+	<item name="use_map_file" type="integer" value="1"></item>
+	<item name="new_level_pause" type="integer" value="0"></item>
+</item>
+<item name="gene_log">
+	<item name="idle_mode" type="integer" value="1"></item>
+    <item name="enable_music" type="integer" value="0"></item>
+	<item name="full_screen" type="integer" value="0"></item>
+	<item name="screen_width" type="integer" value="640"></item>
+	<item name="screen_height" type="integer" value="480"></item>
+	<item name="single_mode" type="integer" value="0"></item>
+	<item name="speed_up_mode" type="integer" value="1"></item>
+	<item name="enable_log" type="integer" value="1"></item>
+	<item name="enable_score_log" type="integer" value="1"></item>
+	<item name="input_type" type="string" value="mul_dll"></item>
+	<item name="use_map_file" type="integer" value="1"></item>
+	<item name="new_level_pause" type="integer" value="0"></item>
+</item>
+<item name="show_log">
+	<item name="idle_mode" type="integer" value="0"></item>
+    <item name="enable_music" type="integer" value="0"></item>
+	<item name="full_screen" type="integer" value="1"></item>
+	<item name="screen_width" type="integer" value="1024"></item>
+	<item name="screen_height" type="integer" value="768"></item>
+	<item name="single_mode" type="integer" value="0"></item>
+	<item name="speed_up_mode" type="integer" value="0"></item>
+	<item name="enable_log" type="integer" value="0"></item>
+	<item name="enable_score_log" type="integer" value="1"></item>
+	<item name="input_type" type="string" value="text"></item>
+	<item name="use_map_file" type="integer" value="1"></item>
+	<item name="new_level_pause" type="integer" value="1"></item>
+</item>
